@@ -37,6 +37,46 @@
 - https://gulpjs.com/docs/en/getting-started/creating-tasks/
 - https://www.electronjs.org/
 
+queues:
+
+- https://blog.logrocket.com/scale-node-js-app-using-distributed-queues/
+- https://www.sitepoint.com/implement-task-queue-node-js/
+- https://betterprogramming.pub/using-bull-to-manage-job-queues-in-a-node-js-micro-service-stack-7a6257e64509
+- https://www.thisdot.co/blog/bullmq-with-expressjs/
+- https://celery-node.js.org/#/
+  https://techsparx.com/nodejs/async/queue-processing.html
+- https://devcenter.heroku.com/articles/node-redis-workers
+- https://www.digitalocean.com/community/tutorials/how-to-handle-asynchronous-tasks-with-node-js-and-bullmq
+- https://www.linkedin.com/pulse/introduction-nodejs-queues-jobs-practical-guide-examples-iqbal/
+- https://byby.dev/node-job-queue-libraries
+- https://levelup.gitconnected.com/how-to-implement-queues-in-node-js-8b3a06ce0dd0
+- https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/
+- https://www.makeuseof.com/task-queuing-nodejs-bullmq/#:~:text=BullMQ%20(Bull.,for%20task%20queuing%20in%20Node.
+- https://adevait.com/nodejs/introduction-to-queues-nodejs#
+- https://www.youtube.com/watch?app=desktop&v=-RnGbbIwTa8
+- https://www.youtube.com/watch?app=desktop&v=E-01bE2LjxM
+- https://www.youtube.com/watch?app=desktop&v=wAEMXVcRbgU
+- https://blog.devgenius.io/boosting-server-performance-with-job-queue-in-node-js-3d480079cf31
+- https://sliceofdev.com/posts/implementing-a-job-queue-in-nodejs
+- https://stackoverflow.com/questions/16904093/worker-queue-for-nodejs
+- https://github.com/bee-queue/bee-queue
+- https://www.npmjs.com/search?q=job%20queue
+- https://temporal.io/blog/using-temporal-as-a-node-task-queue
+- https://www.yld.io/blog/a-distributed-work-queue/
+- https://www.google.com/search?q=node+worker+queue&sca_esv=558660801&rlz=1CDGOYI_enDE753DE753&hl=en-US&sxsrf=AB5stBgOkiuR-yusfd2V4CHnQUeUBI60tA%3A1692593685096&ei=Fe7iZLG9BYCH9u8PrdCywAE&oq=node+worker&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgtub2RlIHdvcmtlcioCCAUyBxAjGIoFGCcyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOdkUPoMWJEUcAF4AZABAJgBtgGgAdoIqgEDMC44uAEByAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPiAwQYACBBiAYBkAYL&sclient=mobile-gws-wiz-serp#imgdii=CDAoh7wvZmz79M&imgrc=AIQ1850kdQvcWM
+- https://www.youtube.com/watch?app=desktop&v=-RnGbbIwTa8
+- https://www.google.com/search?q=node+worker+threads&rlz=1CDGOYI_enDE753DE753&oq=node+worker+task&gs_lcrp=EgZjaHJvbWUqBwgBEAAYogQyBggAEEUYOTIHCAEQABiiBDIHCAIQABiiBDIHCAMQABiiBNIBCjEzMDQyNGowajSoAgCwAgA&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+- https://www.google.com/search?q=node+worker+queue&sca_esv=558660801&rlz=1CDGOYI_enDE753DE753&hl=en-US&sxsrf=AB5stBgOkiuR-yusfd2V4CHnQUeUBI60tA%3A1692593685096&ei=Fe7iZLG9BYCH9u8PrdCywAE&oq=node+worker&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgtub2RlIHdvcmtlcioCCAUyBxAjGIoFGCcyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOdkUPoMWJEUcAF4AZABAJgBtgGgAdoIqgEDMC44uAEByAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPiAwQYACBBiAYBkAYL&sclient=mobile-gws-wiz-serp
+
+- plugin system
+- gulp
+
+js
+ts
+nodejs
+git
+vscode
+
 ## TODO
 
 - debug
@@ -45,7 +85,7 @@
 - db transactions
 - cache, redis, memcached, node cache-manager, cache implementation (KandaSoft project)
 - typeorm
-- microservices, rabbitmq (cloudamqp), kafka, event sourcing, event stores, CQRS
+- microservices, rabbitmq (cloudamqp), kafka, bullmq, event sourcing, event stores, CQRS
 - DDD
 - algorithms
 - design patterns, solid, clean code / clean architecture,
