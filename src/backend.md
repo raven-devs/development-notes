@@ -67,6 +67,8 @@ queues:
 - https://www.youtube.com/watch?app=desktop&v=-RnGbbIwTa8
 - https://www.google.com/search?q=node+worker+threads&rlz=1CDGOYI_enDE753DE753&oq=node+worker+task&gs_lcrp=EgZjaHJvbWUqBwgBEAAYogQyBggAEEUYOTIHCAEQABiiBDIHCAIQABiiBDIHCAMQABiiBNIBCjEzMDQyNGowajSoAgCwAgA&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 - https://www.google.com/search?q=node+worker+queue&sca_esv=558660801&rlz=1CDGOYI_enDE753DE753&hl=en-US&sxsrf=AB5stBgOkiuR-yusfd2V4CHnQUeUBI60tA%3A1692593685096&ei=Fe7iZLG9BYCH9u8PrdCywAE&oq=node+worker&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgtub2RlIHdvcmtlcioCCAUyBxAjGIoFGCcyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOdkUPoMWJEUcAF4AZABAJgBtgGgAdoIqgEDMC44uAEByAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPiAwQYACBBiAYBkAYL&sclient=mobile-gws-wiz-serp
+- https://rahulh123.medium.com/implement-redis-with-node-js-boosting-performance-and-scalability-of-application-8b0206579727
+- https://www.bluelibs.com/blog/2021/11/30/why-we-didnt-choose-nestjs
 
 - plugin system
 - gulp
@@ -76,6 +78,7 @@ ts
 nodejs
 git
 vscode
+jest
 
 ## TODO
 

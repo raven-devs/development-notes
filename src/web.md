@@ -11,6 +11,7 @@
 
 - microfrontends
 - analytics
+- electron
 
 ## IN PROGRESS
 
