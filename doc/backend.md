@@ -33,6 +33,8 @@
 - https://github.com/remy/nodemon/blob/HEAD/doc/events.md#Using_nodemon_as_child_process
 - https://learnnode.com/
 - https://www.javatpoint.com/
+- https://learn.microsoft.com/en-us/
+- https://www.aws.training/
 - https://yeoman.io/generators/
 - https://gulpjs.com/docs/en/getting-started/creating-tasks/
 - https://www.electronjs.org/
@@ -89,6 +91,7 @@ jest
 - cache, redis, memcached, node cache-manager, cache implementation (KandaSoft project)
 - typeorm
 - microservices, rabbitmq (cloudamqp), kafka, bullmq, event sourcing, event stores, CQRS
+- distributed systems, clusters
 - DDD
 - algorithms
 - design patterns, solid, clean code / clean architecture,
