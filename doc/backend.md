@@ -74,6 +74,7 @@ queues:
 
 - plugin system
 - gulp
+- https://learn.microsoft.com/en-us/dotnet/architecture/microservices/
 
 js
 ts
@@ -81,6 +82,15 @@ nodejs
 git
 vscode
 jest
+
+```
+Hosting environment: Production
+Content root path: /app
+Now listening on: http://[::]:80
+Application started. Press Ctrl+C to shut down.
+```
+
+https://codingwithmanny.medium.com/nodejs-typescript-docker-deployment-process-with-aws-ebs-14796cd78392
 
 ## TODO
 
