@@ -1,6 +1,6 @@
 # Microservices: inbox
 
-- Using nodemon as child process: <https://github.com/remy/nodemon/blob/HEAD/doc/events.md#Using_nodemon_as_child_process>
+- Using nodemon as child process <https://github.com/remy/nodemon/blob/HEAD/doc/events.md#Using_nodemon_as_child_process>
 - <https://www.rabbitmq.com/getstarted.html>, <https://customer.cloudamqp.com/login>
 - <https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern>
 - <https://aws.amazon.com/what-is/pub-sub-messaging/>
@@ -77,11 +77,11 @@ else:
 return response
 ```
 
-- gRPC vs. WebSocket: Key differences and which to use: <https://ably.com/topic/grpc-vs-websocket>
+- gRPC vs. WebSocket: Key differences and which to use <https://ably.com/topic/grpc-vs-websocket>
 
-- HTTP/1.1 vs HTTP/2: What's the Difference?: <https://www.digitalocean.com/community/tutorials/http-1-1-vs-http-2-what-s-the-difference>
+- HTTP/1.1 vs HTTP/2: What's the Difference? <https://www.digitalocean.com/community/tutorials/http-1-1-vs-http-2-what-s-the-difference>
 
-- Service Discovery in Microservices: <https://www.baeldung.com/cs/service-discovery-microservices>
+- Service Discovery in Microservices <https://www.baeldung.com/cs/service-discovery-microservices>
 
 - try to implement "parallel streams of data"
 
@@ -91,15 +91,15 @@ return response
 
 - How do WebSockets work? <https://ably.com/topic/how-do-websockets-work>
 
-- MQTT vs AMQP: <https://www.cloudamqp.com/blog/amqp-vs-mqtt.html>
+- MQTT vs AMQP <https://www.cloudamqp.com/blog/amqp-vs-mqtt.html>
 
-- Kafka vs RabbitMQ: <https://aws.amazon.com/compare/the-difference-between-rabbitmq-and-kafka>
+- Kafka vs RabbitMQ <https://aws.amazon.com/compare/the-difference-between-rabbitmq-and-kafka>
 
-- Heres why you should use gRPC for everything: <https://snede.net/heres-why-you-should-use-grpc-for-everything/>
+- Heres why you should use gRPC for everything <https://snede.net/heres-why-you-should-use-grpc-for-everything/>
 
-- Теорема CAP: <https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_CAP>
+- Теорема CAP <https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_CAP>
 
-- gRPC vs. REST: Key Similarities and Differences: <https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/>
+- gRPC vs. REST: Key Similarities and Differences <https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/>
 
 - Open Telemetry (OTEL)?
 
@@ -177,7 +177,7 @@ I guess my point is there is no A or B, but A *and* B.
 
 - AMQP vs MQTT?
 
-- resume example: <https://lukasatkinson.de/2023/available-for-hire/>
+- resume example <https://lukasatkinson.de/2023/available-for-hire/>
 
 ```text
 Microservice communication
@@ -227,21 +227,21 @@ If you call any service and get back a 4xx or 5xx error, you should assume your 
 The slightly longer answer, is that its sometimes good architectural choice to have the first 'service' handling requests from the GUI - to be some sort message queuing service (e.g. Apache Kafka), which can handle retries with the upstream processing services fail.
 ```
 
-- gRPC vs Message Broker: <https://devpress.csdn.net/opensource/62f355067e668234661867af.html>
+- gRPC vs Message Broker <https://devpress.csdn.net/opensource/62f355067e668234661867af.html>
 
-- Go, RabbitMQ and gRPC Clean Architecture microservice: <https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn>
+- Go, RabbitMQ and gRPC Clean Architecture microservice <https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn>
 
-- gRPC vs Message Broker: <https://memphis.dev/blog/grpc-vs-message-broker/>
+- gRPC vs Message Broker <https://memphis.dev/blog/grpc-vs-message-broker/>
 
-- Performance comparison: REST vs gRPC vs asynchronous communication: <https://medium.com/l3montree-techblog/performance-comparison-rest-vs-grpc-vs-asynchronous-communication-3ad27d144a13>
+- Performance comparison: REST vs gRPC vs asynchronous communication <https://medium.com/l3montree-techblog/performance-comparison-rest-vs-grpc-vs-asynchronous-communication-3ad27d144a13>
 
 - When to NOT use a message broker such as RabbitMQ in a micro-services architecture?
 
 - It's important to note that while Node.js excels at handling many concurrent I/O-bound requests, it may not be the best choice for CPU-bound tasks. For CPU-bound operations, consider offloading the work to worker threads or using other technologies better suited for parallel computation.
 
-- Communication in a microservice architecture: <https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture>
+- Communication in a microservice architecture <https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture>
 
-- Decoupling Microservices using Message-based RPC IPC, with Spring, RabbitMQ, and AMPQ: <https://programmaticponderings.com/2017/05/08/decoupling-microservices-using-message-based-rpc-ipc-with-spring-rabbitmq-and-ampq/>
+- Decoupling Microservices using Message-based RPC IPC, with Spring, RabbitMQ, and AMPQ <https://programmaticponderings.com/2017/05/08/decoupling-microservices-using-message-based-rpc-ipc-with-spring-rabbitmq-and-ampq/>
 
 - What’s the Difference Between Kafka and RabbitMQ? <https://aws.amazon.com/compare/the-difference-between-rabbitmq-and-kafka/>
 
@@ -249,9 +249,9 @@ The slightly longer answer, is that its sometimes good architectural choice to h
 
 - GraphQL vs gRPC: Which One Creates More Secure APIs? <https://www.trendmicro.com/en_th/devops/22/g/graphql-vs-grpc.html>
 
-- Demystifying edge functions: <https://blog.logrocket.com/demystifying-edge-functions/>
+- Demystifying edge functions <https://blog.logrocket.com/demystifying-edge-functions/>
 
-- gRPC service in Node.js: Tutorial, Examples and Best practices: <https://daily.dev/blog/build-a-grpc-service-in-nodejs>
+- gRPC service in Node.js: Tutorial, Examples and Best practices <https://daily.dev/blog/build-a-grpc-service-in-nodejs>
 
 ```text
 Should I use a message queue for service to service communication, or a task queue?
@@ -287,9 +287,9 @@ In my experience, the industry standard is all over the place, but using Celery 
 
 - distributed systems, clusters
 
-- Scaling your Node.js app using distributed queues: <https://blog.logrocket.com/scale-node-js-app-using-distributed-queues/>
+- Scaling your Node.js app using distributed queues <https://blog.logrocket.com/scale-node-js-app-using-distributed-queues/>
 
-- Queue Data Structures: How to Build a Node Task Queue: <https://www.sitepoint.com/implement-task-queue-node-js/>
+- Queue Data Structures: How to Build a Node Task Queue <https://www.sitepoint.com/implement-task-queue-node-js/>
 
 ```text
 job, task and process, what's the difference?
@@ -341,7 +341,7 @@ interface Worker {
 }
 ```
 
-- Use Bull to Manage Job Queues in a Node.js Micro-Service Stack: <https://betterprogramming.pub/using-bull-to-manage-job-queues-in-a-node-js-micro-service-stack-7a6257e64509>
+- Use Bull to Manage Job Queues in a Node.js Micro-Service Stack <https://betterprogramming.pub/using-bull-to-manage-job-queues-in-a-node-js-micro-service-stack-7a6257e64509>
 
 - BullMQ with ExpressJS <https://www.thisdot.co/blog/bullmq-with-expressjs/>
 
@@ -349,16 +349,30 @@ interface Worker {
 
 - Implementing worker queues for processing datasets in Node.js <https://techsparx.com/nodejs/async/queue-processing.html>
 
-- Background Jobs in Node.js with Redis: <https://devcenter.heroku.com/articles/node-redis-workers>
+- Background Jobs in Node.js with Redis <https://devcenter.heroku.com/articles/node-redis-workers>
 
-- How To Handle Asynchronous Tasks with Node.js and BullMQ: <https://www.digitalocean.com/community/tutorials/how-to-handle-asynchronous-tasks-with-node-js-and-bullmq>
+- How To Handle Asynchronous Tasks with Node.js and BullMQ <https://www.digitalocean.com/community/tutorials/how-to-handle-asynchronous-tasks-with-node-js-and-bullmq>
 
-- Introduction to Node.js Queues and Jobs: A Practical Guide with Examples: <https://www.linkedin.com/pulse/introduction-nodejs-queues-jobs-practical-guide-examples-iqbal/>
+- Introduction to Node.js Queues and Jobs: A Practical Guide with Examples <https://www.linkedin.com/pulse/introduction-nodejs-queues-jobs-practical-guide-examples-iqbal/>
 
-- Node Job Queue Libraries: <https://byby.dev/node-job-queue-libraries>
+- Node Job Queue Libraries <https://byby.dev/node-job-queue-libraries>
 
-- How to Implement Queues In Node.js: <https://levelup.gitconnected.com/how-to-implement-queues-in-node-js-8b3a06ce0dd0>
+- How to Implement Queues In Node.js <https://levelup.gitconnected.com/how-to-implement-queues-in-node-js-8b3a06ce0dd0>
 
-- How to Use Queues in Web Applications – Node.js and Redis Tutorial: <https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/>
+- How to Use Queues in Web Applications – Node.js and Redis Tutorial <https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/>
 
-- Task Queuing the Easy Way With Node.js and BullMQ: <https://www.makeuseof.com/task-queuing-nodejs-bullmq/>
+- Task Queuing the Easy Way With Node.js and BullMQ <https://www.makeuseof.com/task-queuing-nodejs-bullmq/>
+
+- Boosting Server Performance with Job Queue in Node.js <https://blog.devgenius.io/boosting-server-performance-with-job-queue-in-node-js-3d480079cf31>
+
+- Implementing a job queue in Nodejs <https://sliceofdev.com/posts/implementing-a-job-queue-in-nodejs>
+
+- An Introduction To Queues In Node.js <https://adevait.com/nodejs/introduction-to-queues-nodejs>
+
+- Implementing a Worker Queue using Child Processes <https://www.youtube.com/watch?app=desktop&v=E-01bE2LjxM>
+
+- Worker queues for Node.js <https://www.youtube.com/watch?app=desktop&v=wAEMXVcRbgU>
+
+- Using Temporal as a Node.js Task Queue <https://temporal.io/blog/using-temporal-as-a-node-task-queue>
+
+- A Distributed Work Queue <https://www.yld.io/blog/a-distributed-work-queue/>

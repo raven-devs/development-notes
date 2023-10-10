@@ -11,6 +11,8 @@
 
 - analytics
 - electron
+- react-hook-form
+- vite
 
 ## IN PROGRESS
 
@@ -42,3 +44,4 @@
 - https://themeforest.net/
 - https://github.com/enaqx/awesome-react
 - https://github.com/brillout/awesome-react-components
+- https://www.robinwieruch.de/web-development-trends/
