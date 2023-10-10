@@ -9,15 +9,12 @@
 
 ## TODO
 
-- microfrontends
 - analytics
 - electron
 
 ## IN PROGRESS
 
 - debug
-- nextjs
-- tailwind ui
 - chakra ui
 
 ## DONE
@@ -25,12 +22,9 @@
 - create react app
 - config, env
 - craco, react app rewired
-- react router
-- ant design
 - icons, fonts, vector images, emoji
 - react cookie
 - react helmet
-- chartjs, highcharts
 - react csv
 - react to print
 - react toastify

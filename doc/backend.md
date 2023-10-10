@@ -1,59 +1,21 @@
 # Backend
 
-## BACKLOG
+## Inbox
 
-- blockchain
-- openai
-- aws:
-  - Cognito, IAM, Lambda, API Gateway, CodePipeline, ELB, CloudWatch, XRay, SQS, SecretManager, configservice, Route 53, SNS, S3, realtime db?
-  - EC2, SES, SQS, ELB primarily
-  - aws DevOps
-  - sam framework
-  - aws: sdk framework
-  - aws: serverless framework
-  - aws: cerification
-  - aws: direct s3 upload, upload to s3 using node streams implementation (TradeZing project)
-  - aws: storage, auth, ci/cd
-- firebase
-- investigate TradeZing project (BE)
-- CSV file export/import from TradeZing, CSV and Excel file export/import from Enovos
-- eslint and format option for import order from TradeZing
-- JSON Schema
-- Closures / Curring / HOF
-- Observables / RxJS
-- Generators
-- "For a web process, graceful shutdown is achieved by ceasing to listen on the service port (thereby refusing any new requests), allowing any current requests to finish, and then exiting. Implicit in this model is that HTTP requests are short (no more than a few seconds), or in the case of long polling, the client should seamlessly attempt to reconnect when the connection is lost."
-- "or a worker process, graceful shutdown is achieved by returning the current job to the work queue. For example, on RabbitMQ the worker can send a NACK;"
-- "Instead, each running process writes its event stream, unbuffered, to stdout.
-  The event stream for an app can be routed to a file, or watched via realtime tail in a terminal."
-- https://www.dotenv.org/security/
-- https://dev.to/gregorygaines/stop-using-env-files-now-kp0
-- https://www.npmjs.com/package/nodemon#Gracefully-reloading-down-your-script
-- https://www.npmjs.com/package/nodemon#Pipe-output-to-somewhere-else
-- https://github.com/remy/nodemon/blob/HEAD/doc/events.md#Using_nodemon_as_child_process
-- https://learnnode.com/
-- https://www.javatpoint.com/
-- https://learn.microsoft.com/en-us/
-- https://www.aws.training/
-- https://yeoman.io/generators/
-- https://gulpjs.com/docs/en/getting-started/creating-tasks/
-- https://www.electronjs.org/
+- review all archived and active work projects
+
+- CSV file export/import from TradeZing project, CSV and Excel file export/import from Enovos project
+
+- how to make a plug-in architecture with nodejs?
+
+- using a config server and "AWS Systems Manager Parameter Store" for env variables: https://dev.to/gregorygaines/stop-using-env-files-now-kp0
+
+- pipe output to a file: https://www.npmjs.com/package/nodemon#Pipe-output-to-somewhere-else
+
+- api throttling: https://www.tibco.com/reference-center/what-is-api-throttling
 
 queues:
 
-- https://blog.logrocket.com/scale-node-js-app-using-distributed-queues/
-- https://www.sitepoint.com/implement-task-queue-node-js/
-- https://betterprogramming.pub/using-bull-to-manage-job-queues-in-a-node-js-micro-service-stack-7a6257e64509
-- https://www.thisdot.co/blog/bullmq-with-expressjs/
-- https://celery-node.js.org/#/
-  https://techsparx.com/nodejs/async/queue-processing.html
-- https://devcenter.heroku.com/articles/node-redis-workers
-- https://www.digitalocean.com/community/tutorials/how-to-handle-asynchronous-tasks-with-node-js-and-bullmq
-- https://www.linkedin.com/pulse/introduction-nodejs-queues-jobs-practical-guide-examples-iqbal/
-- https://byby.dev/node-job-queue-libraries
-- https://levelup.gitconnected.com/how-to-implement-queues-in-node-js-8b3a06ce0dd0
-- https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/
-- https://www.makeuseof.com/task-queuing-nodejs-bullmq/#:~:text=BullMQ%20(Bull.,for%20task%20queuing%20in%20Node.
 - https://adevait.com/nodejs/introduction-to-queues-nodejs#
 - https://www.youtube.com/watch?app=desktop&v=-RnGbbIwTa8
 - https://www.youtube.com/watch?app=desktop&v=E-01bE2LjxM
@@ -71,91 +33,40 @@ queues:
 - https://www.google.com/search?q=node+worker+queue&sca_esv=558660801&rlz=1CDGOYI_enDE753DE753&hl=en-US&sxsrf=AB5stBgOkiuR-yusfd2V4CHnQUeUBI60tA%3A1692593685096&ei=Fe7iZLG9BYCH9u8PrdCywAE&oq=node+worker&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgtub2RlIHdvcmtlcioCCAUyBxAjGIoFGCcyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOdkUPoMWJEUcAF4AZABAJgBtgGgAdoIqgEDMC44uAEByAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPiAwQYACBBiAYBkAYL&sclient=mobile-gws-wiz-serp
 - https://rahulh123.medium.com/implement-redis-with-node-js-boosting-performance-and-scalability-of-application-8b0206579727
 - https://www.bluelibs.com/blog/2021/11/30/why-we-didnt-choose-nestjs
-
-- plugin system
-- gulp
 - https://learn.microsoft.com/en-us/dotnet/architecture/microservices/
+- https://codingwithmanny.medium.com/nodejs-typescript-docker-deployment-process-with-aws-ebs-14796cd78392
+- https://www.geeksforgeeks.org/
 
-js
-ts
-nodejs
-git
-vscode
-jest
+- node cache-manager, cache implementation (KandaSoft project)
 
-```
-Hosting environment: Production
-Content root path: /app
-Now listening on: http://[::]:80
-Application started. Press Ctrl+C to shut down.
-```
-
-https://codingwithmanny.medium.com/nodejs-typescript-docker-deployment-process-with-aws-ebs-14796cd78392
-
-## TODO
-
-- debug
-- mongodb, mongoose
-- postgresql, sequelize
-- db transactions
-- cache, redis, memcached, node cache-manager, cache implementation (KandaSoft project)
-- typeorm
-- microservices, rabbitmq (cloudamqp), kafka, bullmq, event sourcing, event stores, CQRS
-- distributed systems, clusters
-- DDD
-- algorithms
-- design patterns, solid, clean code / clean architecture,
-  YAGNI (You aren't gonna need it), KISS (Keep it simple, stupid), DRY (Don't repeat yourself)
-- aop
-- data normalization, related tables normalization (1NF, 2NF, 3NF and BCNF)
-- xstate
 - node streams
+
 - cron jobs
-- auth
-  - authorization / authentication
-  - jwt, role based authorization, bearer token, refresh token, api token, 2fa, passportjs,
-  - email / password auth, google auth, facebook auth, apple auth, microsoft auth
-  - sign in, sign up, forgot / change password, block / unblock account, confirm email, confirm phone
-- notifications, sendgrid, onesignal, twillo
-- payments, paypal, stripe, google payment, apple payment
-- ads, google ads, facebook ads
-- booking, lightspeed
-- video streaming, agora
-- logging, winston, https://github.com/pimterry/loglevel
-- web sockets, socket.io
-- headless cms: https://strapi.io/
+
+- https://github.com/pimterry/loglevel
+
 - webhooks
 
-## IN PROGRESS
-
-- nodejs
-- expressjs
-- nestjs
-
-## DONE
-
-- http response status codes
-- nodemon
-- openapi, swagger
-- crud
 - fast csv
+
 - cookie parser
-- rimraf
-- yargs
+
 - sharp
+
 - multer
-- nconf, env, dotenv, dotenv-expand, env-cmd, cross-env
+
+- cross-env
+
 - bcrypt
-- ejs
+
 - cors
-- morgan
-- chalk
-- ora
 
-## CLOSED
+## Resources
 
-## LINKS
-
-- https://www.rabbitmq.com/getstarted.html, https://customer.cloudamqp.com/login
-- https://2021.stateofjs.com/
-- https://stackshare.io/posts/top-developer-tools-2021
+- https://learnnode.com/
+- https://www.javatpoint.com/
+- https://learn.microsoft.com/en-us/
+- https://dotnet.microsoft.com/en-us/learn
+- https://www.aws.training/
+- https://2022.stateofjs.com/en-US/
+- https://stackshare.io/
