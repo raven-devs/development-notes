@@ -1,9 +1,5 @@
 # Ecommerce
 
-## Resources
-
-- <https://www.quora.com/What-are-the-most-important-e-commerce-modules>
-
 ## What are the most important e-commerce modules? (#1)
 
 1. Product Management:Catalog Management: Organize products into categories and subcategories.Product Variations: Manage different sizes, colors, and other variations of products.Inventory Management: Track stock levels and set alerts for low stock.
@@ -95,3 +91,7 @@ In the context of e-commerce, modules refer to various components or features th
 16. Local Store Information.
 
 17. Content management.
+
+## Resources
+
+- <https://www.quora.com/What-are-the-most-important-e-commerce-modules>

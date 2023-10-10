@@ -1,4 +1,4 @@
-# Microservices: a parent service that notifies child services with a termination signal
+# Microservices: RabbitMQ - a parent service that notifies child services with a termination signal
 
 In this example:
 

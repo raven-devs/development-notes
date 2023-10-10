@@ -1,4 +1,4 @@
-# Microservices: a child service notifies a parent service when a task is completed (RabbitMQ)
+# Microservices: RabbitMQ - a child service notifies a parent service when a task is completed
 
 The child service simulates completing a task and sends a JSON message to the taskCompleted queue when the task is done.
 

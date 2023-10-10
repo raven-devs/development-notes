@@ -1,4 +1,4 @@
-# Microservices: inbox
+# Microservices: Inbox
 
 - Using nodemon as child process <https://github.com/remy/nodemon/blob/HEAD/doc/events.md#Using_nodemon_as_child_process>
 - <https://www.rabbitmq.com/getstarted.html>, <https://customer.cloudamqp.com/login>

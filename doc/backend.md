@@ -3,7 +3,7 @@
 ## Log
 
 - winston
-- loglevel: <https://github.com/pimterry/loglevel>
+- loglevel <https://github.com/pimterry/loglevel>
 - sentry
 - logrocket
 - graphana
@@ -86,22 +86,27 @@ In this example, plugins are loaded dynamically from a `plugins` directory. Each
 
 Keep in mind that building a robust plugin system can become more complex depending on your application's requirements and security considerations. Additionally, various libraries and frameworks can simplify the implementation of a plugin architecture in Node.js, so consider exploring existing solutions that match your needs.
 
+## Udemy
+
+Robert Bunch
+Maximilian Schwarzmüller
+Jonas Schmedtmann
+Andrew Mead
+Stephen Grider
+Brad Traversy
+Andrei Neagoie
+Antonio Papa
+Ryan Dhungel
+
 ## Resources
 
-- Learn Node: <https://learnnode.com/>
-
+- Learn Node <https://learnnode.com/>
 - Java Point <https://www.javatpoint.com/>
-
 - Microsoft Learn <https://learn.microsoft.com/en-us/>
-
 - Learn .NET <https://dotnet.microsoft.com/en-us/learn>
-
 - AWS training and certification <https://www.aws.training/>
-
 - StateOfJS2022 <https://2022.stateofjs.com/en-US/>
-
 - Stackshare <https://stackshare.io/>
-
 - Geeksforgeeks <https://www.geeksforgeeks.org/>
 
 ## Inbox
@@ -127,3 +132,4 @@ Keep in mind that building a robust plugin system can become more complex depend
 - node threads <https://github.com/xk/node-threads-a-gogo#tagg-threads-%C3%A0-gogo-for-nodejs>
 - Implement Redis with Node.js — Boosting Performance and Scalability of Application <https://rahulh123.medium.com/implement-redis-with-node-js-boosting-performance-and-scalability-of-application-8b0206579727>
 - NodeJS TypeScript Docker Deployment Process With AWS EBS <https://codingwithmanny.medium.com/nodejs-typescript-docker-deployment-process-with-aws-ebs-14796cd78392>
+- What the heck is the event loop anyway? <https://www.youtube.com/watch?v=8aGhZQkoFbQ>

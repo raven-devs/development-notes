@@ -1,4 +1,4 @@
-# Microservices: a child service notifies a parent service when a task is completed (RabbitMQ)
+# Microservices: RabbitMQ - a child service notifies a parent service when a task is completed
 
 In a microservices architecture, communication between services is typically asynchronous, and services should be decoupled as much as possible. To notify a parent task when a child task is done, you can use various messaging patterns and technologies. One common approach is to employ a message broker, such as Apache Kafka, RabbitMQ, or AWS SQS, to facilitate communication between microservices. Here's a high-level overview of how you can achieve this:
 

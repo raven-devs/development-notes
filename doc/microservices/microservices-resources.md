@@ -1,8 +1,8 @@
-# Microservices: resources
+# Microservices: Resources
 
-- realtime messaging: <https://ably.com/topics>
+- Ably: <https://ably.com/topics>
 
-- baeldung microservices: <https://www.baeldung.com/cs/tag/microservices>
+- Baeldung Microservices: <https://www.baeldung.com/cs/tag/microservices>
 
 - Circuit Breaker Pattern (Design Patterns for Microservices): <https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33>
 

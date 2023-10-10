@@ -1,6 +1,4 @@
-# Mobile
-
-## BACKLOG
+# Archive: Mobile
 
 - native base, ant design mobile rn, kitten ui, react native ui lib, shoutem ui, nachos ui, magnus ui
 - themes
@@ -16,9 +14,6 @@
 - calendars
 - chat, https://github.com/FaridSafi/react-native-gifted-chat
 - walkthrough, https://instamobile.io/app-templates/react-native-walkthrough-flow/
-
-## TODO
-
 - instamobile
 - expo framework
 - tailwind-rn, react native elements
@@ -35,9 +30,6 @@
 - app icon
   - http://jgilfelt.github.io/AndroidAssetStudio/icons-launcher.html#foreground.space.trim=1&foreground.space.pad=0&foreColor=E8EAF6%2C0&crop=0&backgroundShape=square&backColor=3F51B5%2C100&effects=none&elevate=0
   - https://www.appicon.co/
-
-## IN PROGRESS
-
 - react native
 - config, react-native-config
 - env
@@ -45,15 +37,7 @@
 - react navigation
 - links / deep linking
 - modals
-
-## DONE
-
 - create react native app
-
-## CLOSED
-
-## LINKS
-
 - https://nativebase.io/, https://startup.nativebase.io/?utm_source=HomePage&utm_medium=Hero_Fold&utm_campaign=NativeBase_Market#explore
 - https://github.com/ant-design/ant-design-mobile-rn
 - https://reactnativeelements.com/
