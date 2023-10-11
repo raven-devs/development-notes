@@ -133,3 +133,61 @@ Ryan Dhungel
 - Implement Redis with Node.js — Boosting Performance and Scalability of Application <https://rahulh123.medium.com/implement-redis-with-node-js-boosting-performance-and-scalability-of-application-8b0206579727>
 - NodeJS TypeScript Docker Deployment Process With AWS EBS <https://codingwithmanny.medium.com/nodejs-typescript-docker-deployment-process-with-aws-ebs-14796cd78392>
 - What the heck is the event loop anyway? <https://www.youtube.com/watch?v=8aGhZQkoFbQ>
+
+```text
+Db connection pool
+https://stackoverflow.com/questions/8753442/thinking-behind-decision-of-database-connection-pool-size
+
+If a typical request spends 50% of its time doing calculations and 50% on database connectivity you might only need 50 connections in your pool. Of course your application should release the db connection as early as possible.
+
+In general holding a connection is not expensive for a database (while creating a new one is quite expensive). It should be no problem to keep the size high enough.
+
+You can set
+
+maximum pool size to 100
+preferred pool size to 50
+and the idle timeout to 5 minutes for pooled connections.
+I am not familiar with microsoft sql server but I think its max pool limit is 100
+
+Tomcat will be fine with this number of pool size.
+```
+
+```text
+Db connection pool
+https://stackoverflow.com/questions/19321157/determining-what-to-raising-max-pool-size-to-for-my-connection-pool
+
+Why is this number defaulted at 100, seems low?
+100 connections roughly means that you can handle two hundred 500ms database processings per second on every second without running low on connections. That's quite high. If you hit this limit, it's time to have a look at optimization.
+
+Is there a good way to determine what this Max Should be raised to?
+On a rough basis, it should be the number of connections you will need per second times the average execution time necessary before releasing each connection. For example, if you need to open one hundred new connections per second, each of them requiring 10 seconds before release (which would be really huge), you would need something like 1000 connections in your pool to handle it on the long run.
+```
+
+```text
+Optimal number of connections in connection pool?
+https://stackoverflow.com/questions/1208077/optimal-number-of-connections-in-connection-pool
+
+Did you really mean 200 concurrent users or just 200 logged in users? In most cases, a browser user is not going to be able to do more than 1 page request per second. So, 200 users translates into 200 transactions per second. That is a pretty high number for most applications.
+
+Regardless, as an example, let's go with 200 transactions per second. Say each front end (browser) tx takes 0.5 seconds to complete and of the 0.5 seconds, 0.25 are spent in the database. So, you would need 0.5 * 200, or 100 connections in the WebLogic thead pool and 0.25 * 200 = 50 connections in the DB connection pool.
+
+To be safe, I would set the max thread pool sizes to at least 25% larger than you expect to allow for spikes in load. The minimums can be a small fraction of the max, but the tradeoff is that it could take longer for some users because a new connection would have to be created. In this case, 50 - 100 connections is not that many for a DB so that's probably a good starting number.
+```
+
+```text
+worker threads or child processes in nodejs
+
+While Node.js is primarily single-threaded, it can still leverage multiple threads through various mechanisms like child processes, worker threads, or external libraries. These mechanisms enable Node.js to offload heavy computations to separate threads or processes while the main event loop remains unblocked and responsive to handle I/O and other tasks.
+
+To summarize, Node.js itself operates on a single thread for most of its tasks but uses an event-driven, non-blocking I/O model to efficiently manage concurrency. If you need to work with multiple threads explicitly, you can explore the use of worker threads or child processes to achieve parallelism in your Node.js applications.
+```
+
+- Database Connections: Less is More <https://kwahome.medium.com/database-connections-less-is-more-86c406b6fad>
+
+- What is connection pooling, and why should you care <https://www.cockroachlabs.com/blog/what-is-connection-pooling/>
+
+- About Pool Sizing <https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing>
+
+- Determining database connection pool sizes <https://www.ibm.com/support/pages/determining-database-connection-pool-sizes-openpages-deployments-using-websphere-liberty-profile>
+
+- Improve database performance with connection pooling <https://stackoverflow.blog/2020/10/14/improve-database-performance-with-connection-pooling/>

@@ -95,3 +95,23 @@ In the context of e-commerce, modules refer to various components or features th
 ## Resources
 
 - <https://www.quora.com/What-are-the-most-important-e-commerce-modules>
+
+## Inbox
+
+- 10 Best Ecommerce Frameworks <https://www.bigcommerce.com/articles/ecommerce-website-development/ecommerce-frameworks/>
+
+- 13 Best eCommerce Frameworks In 2022 <https://makewebbetter.com/blog/best-ecommerce-frameworks/>
+
+- Choosing the Best eCommerce Framework for Your New Online Business <https://www.linkedin.com/pulse/choosing-best-ecommerce-framework-your-new-online-business-salot/>
+
+- How to Build an E-Commerce Framework for 2022 <https://fabric.inc/blog/commerce/ecommerce-framework>
+
+- Best Framework for Ecommerce Website — Ecommerce Website <https://medium.com/@WebDesignCity/best-framework-for-ecommerce-website-ecommerce-website-b75269ff22e3>
+
+- pimcore ecommerce api docs <https://pimcore.com/docs/platform/Ecommerce_Framework/>
+
+- PageSpeed Insights <https://pagespeed.web.dev/>
+
+- Crystallize Headless Commerce <https://crystallize.com/>
+
+- Frontend Frameworks in 2022 for eCommerce <https://crystallize.com/blog/best-frontend-frameworks>
