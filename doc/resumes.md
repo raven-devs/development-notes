@@ -72,3 +72,72 @@ DEVOPS ENGINEER
 - level up your resume <https://www.linkedin.com/learning/linkedin-premium-quick-tips-revision-2023/level-up-your-resume>
 
 - change location in my IN profile to USA / GB
+
+```text
+Requirements:
+5-6+ years working in back-end web development with Node.js
+4+ years working in frond-end development with React.
+5+ years working with Javascript
+Experience with server-side templating languages
+Experience consuming and building robust APIs and building microservices
+Experience with MongoDB and relational databases like MySQL/Postgres
+Experience building scalable systems with on AWS
+Solid understanding and extensive experience with version control tools like Git
+Understanding of Agile methodologies
+Experience with Atlassian Jira for task management and Confluence for documentation
+Bonus:
+Previous experience with Python
+Strong Computer Science fundamentals
+Solid understanding of AWS and its services
+```
+
+```text
+You can name examples of use in different contexts. Are guided by best-practices and specifications of such skills:
+
+JavaScript. Core, Performance, Security
+NodeJS. Event loop, Frameworks, no/SQL databases, DB design, ORM, Cache, Security
+CI/CD, Docker
+oAuth, JWT
+HTTP, REST API
+Design patterns, OOP, Development principles
+Software testing. Approaches, testing types
+Git
+Upper-Intermediate English
+Understanding of Scrum process
+```
+
+```text
+- что был за проект (новый, переделка, интеграция, энтерпрайз, ритейл и т.д.)
+    * Энтерпрайз проект: интеграция существующего почтового сервера с последними версиями Mail / Calendar / Card протоколами на основе стэка NodeJS / TypeScript / LoopBack / Mocha.
+- какая роль была на проекте (100% разработчик, лид, архитектура, менеджемент)
+    * Роль на проекте: Team Lead. Участвовал в разработке архитектуре проекта, являлся ментором начинающих разработчиков.
+- какие сложные задачи приходилось решать
+    * На основе имеющегося прототипа были созданы несколько коммерческих версий системы, основанных на едином ядре -  core npm packages - с параллельным развитием версий продукта для поддержки различных почтовых клиентов, например - Apple Mail, Outlook, Thunderbird, а также для работы в различных ОС, например - Windows, MacOS.
+- какая была команда и роли на проекте
+    * Команда из 5 человек
+- как была выстроена работа (кодревью, правила разработки, сборка, тесты)
+    * Так как команда была из разработчиков одного уровня  для кодревью использовали Pull Request. За финальную сборку отвечал разработчик со стороны заказчика. Для тестирования кода использовали юнит и интеграционные тесты. На проекте применялись унифицированные правила для линтинга и форматирования кода.
+- как и кем ставились задачи и контролировались
+    * Был продакт-менеджер (оунер) заказчика, задачи ставились и контролировались им в ходе стандартных SCRUM процедур.
+- достижения
+    * Неоднократно получал положительные отзывы от заказчика.
+```
+
+```text
+Expert knowledge in creating applications with the AWS Tech Stack and experience with the AWS architecture
+IMPORTANT: CDK knowledge
+Overview and knowledge of the current AWS service landscape as well as common, state-of-the-art software solutions (Docker, Kubernetes,...) for the development of holistic applications (machine-backend-frontend-UX)
+Implementation of REST-based services
+
+The following exemplary AWS services or experiences are relevant in this context:
+code pipeline
+CDK
+ELB
+AWS Lambda
+DynamoDB / Aurora / Neptune
+API Gateway
+Cloudwatch / XRay
+SNS (as consumer) / SQS (fanout)
+Secret Manager
+configservice
+```

@@ -28,6 +28,8 @@
 - JWT vs cookies for token-based authentication <https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication>
 - PassportJS, Sessions, API key, Auth0
 - https://www.npmjs.com/package/jwks-rsa
+- SSO
+- Do I have to store tokens in cookies or localstorage or session? <https://stackoverflow.com/questions/54258233/do-i-have-to-store-tokens-in-cookies-or-localstorage-or-session>
 
 ## Plugin architecture
 
@@ -334,3 +336,28 @@ To summarize, Node.js itself operates on a single thread for most of its tasks b
 - Modernize how you build and manage applications <https://aws.amazon.com/partners/featured/modern-application-development/>
 
 - terraform
+
+- Swagger Codegen
+
+- Agile/Scrum для начинающих. Что такое гибкая методология? <https://www.pmoffice.by/blog/agile/agile-approach.html>
+
+- Dev Kanban Board: 1. Backlog, 2. To Do, 3. Development (Doing / Done), 4. Testing (Doing / Done), 5. Deployment, 6. Done.
+
+```text
+MongoDb ObjectId
+
+1. import { Schema } from "mongoose"
+const ObjectId = Schema.Types.ObjectId; // used in schemas
+
+2. import { ObjectId } from "mongoose"
+certificate._id as ObjectId // used for type casting
+
+3. import { Types } from "mongoose"
+const id = Types.ObjectId(certificate._id as string) // used to create a new ObjectId
+```
+
+```text
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module
+Use --es-module-specifier-resolution=node flag, i.e.:
+node --es-module-specifier-resolution=node src/app/api/file/test.js
+```
