@@ -11,6 +11,8 @@
 
 ## Security
 
+- authorization (base)
+- authentication (base)
 - jwt
 - role based authorization
 - bearer token
@@ -20,6 +22,12 @@
 - passportjs
 - email / password auth, google auth, facebook auth, apple auth, microsoft auth
 - sign in, sign up, forgot / change password, block / unblock account, confirm email, confirm phone
+- Cookie and Session (II): How session works in express-session <https://medium.com/@alysachan830/cookie-and-session-ii-how-session-works-in-express-session-7e08d102deb8>
+- Best Practices for Secure Session Management in Node <https://jscrambler.com/blog/best-practices-for-secure-session-management-in-node>
+- Why is it good practice to store session IDs in a database? <https://www.quora.com/Why-is-it-good-practice-to-store-session-IDs-in-a-database>
+- JWT vs cookies for token-based authentication <https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication>
+- PassportJS, Sessions, API key, Auth0
+- https://www.npmjs.com/package/jwks-rsa
 
 ## Plugin architecture
 
@@ -127,6 +135,8 @@ Ryan Dhungel
 - LogRocket blog <https://blog.logrocket.com/>
 - Upwork blog <https://www.upwork.com/resources>
 - IN learning <https://www.linkedin.com/learning/>
+- in28minutes <https://www.in28minutes.com/>
+- w3schools <https://www.w3schools.com/>
 
 ## Inbox
 
@@ -221,10 +231,14 @@ To summarize, Node.js itself operates on a single thread for most of its tasks b
 
 - Lerna
 
-- PassportJS, Sessions, API key, Auth0
-- https://www.npmjs.com/package/jwks-rsa
+- DDD, Inversion of Control / Dependencies Injection, Separation of Concerns, KISS, YAGNI, DRY, AOP
 
-- DDD, Inversion of Control / Dependencies Injection, Separation of Concerns, KISS, YAGNI
+- related tables normalization (1NF, 2NF, 3NF and BCNF) <https://www.studytonight.com/dbms/database-normalization.php>
+
+- data normalization
+  <https://redux.js.org/tutorials/essentials/part-6-performance-normalization#normalizing-data>
+  <https://redux.js.org/usage/structuring-reducers/normalizing-state-shape>
+  <https://redux.js.org/usage/structuring-reducers/updating-normalized-data>
 
 - https://www.npmjs.com/package/nodemailer
 
@@ -303,14 +317,7 @@ To summarize, Node.js itself operates on a single thread for most of its tasks b
 
 - How to OVER Engineer a Website <https://www.youtube.com/watch?v=Sxxw3qtb3_g>
 
-- Cookie and Session (II): How session works in express-session <https://medium.com/@alysachan830/cookie-and-session-ii-how-session-works-in-express-session-7e08d102deb8>
-- Best Practices for Secure Session Management in Node <https://jscrambler.com/blog/best-practices-for-secure-session-management-in-node>
-- Why is it good practice to store session IDs in a database? <https://www.quora.com/Why-is-it-good-practice-to-store-session-IDs-in-a-database>
-- JWT vs cookies for token-based authentication <https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication>
-
 - How to build real-time applications using WebSockets with AWS API Gateway and Lambda <https://www.freecodecamp.org/news/real-time-applications-using-websockets-with-aws-api-gateway-and-lambda-a5bb493e9452/>
-
-<https://circleci.com/>
 
 - Module Pattern in JavaScript <https://javascript.plainenglish.io/data-hiding-with-javascript-module-pattern-62b71520bddd>
 
@@ -325,3 +332,5 @@ To summarize, Node.js itself operates on a single thread for most of its tasks b
 - The Truth About Abs: How To Make $1,000,000 Per Month with Digital Products (Plus: Noah Kagan results) <https://tim.blog/2011/11/02/the-truth-about-abs-mike-geary/>
 
 - Modernize how you build and manage applications <https://aws.amazon.com/partners/featured/modern-application-development/>
+
+- terraform
