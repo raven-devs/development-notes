@@ -376,3 +376,5 @@ interface Worker {
 - Using Temporal as a Node.js Task Queue <https://temporal.io/blog/using-temporal-as-a-node-task-queue>
 
 - A Distributed Work Queue <https://www.yld.io/blog/a-distributed-work-queue/>
+
+- What is an Event-Driven Architecture? <https://aws.amazon.com/event-driven-architecture/>

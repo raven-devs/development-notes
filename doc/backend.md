@@ -6,7 +6,7 @@
 - loglevel <https://github.com/pimterry/loglevel>
 - sentry
 - logrocket
-- graphana
+- Grafana, Sentry, Instana
 - morgan
 
 ## Security
@@ -105,9 +105,28 @@ Ryan Dhungel
 - Microsoft Learn <https://learn.microsoft.com/en-us/>
 - Learn .NET <https://dotnet.microsoft.com/en-us/learn>
 - AWS training and certification <https://www.aws.training/>
+- AWS Hands-on Tutorials <https://aws.amazon.com/getting-started/hands-on/>
 - StateOfJS2022 <https://2022.stateofjs.com/en-US/>
 - Stackshare <https://stackshare.io/>
 - Geeksforgeeks <https://www.geeksforgeeks.org/>
+- freeCodeCamp <https://www.freecodecamp.org/>
+- Khalilstemmler <https://khalilstemmler.com/>
+- Fireship <https://fireship.io/>
+- Refactoring <https://refactoring.guru/>
+- Node.js Best Practices <https://github.com/goldbergyoni/nodebestpractices>
+- JavaScriptInfo <https://javascript.info/>
+- egghead <https://egghead.io/>
+- wesbos <https://wesbos.com/>
+- newline <https://www.newline.co/>
+- codewithmosh <https://codewithmosh.com/>
+- wanago <https://wanago.io/>
+- rossbulat <https://rossbulat.medium.com/>
+- webbyawards <https://www.webbyawards.com/>
+- udemy labs <https://www.udemy.com/labs/listing/?vertical=all>
+- hackerrank <https://www.hackerrank.com/>
+- LogRocket blog <https://blog.logrocket.com/>
+- Upwork blog <https://www.upwork.com/resources>
+- IN learning <https://www.linkedin.com/learning/>
 
 ## Inbox
 
@@ -191,3 +210,118 @@ To summarize, Node.js itself operates on a single thread for most of its tasks b
 - Determining database connection pool sizes <https://www.ibm.com/support/pages/determining-database-connection-pool-sizes-openpages-deployments-using-websphere-liberty-profile>
 
 - Improve database performance with connection pooling <https://stackoverflow.blog/2020/10/14/improve-database-performance-with-connection-pooling/>
+
+- realtime api, realtime db
+
+- edge functions
+
+- XState
+
+- Node JS Cluster with PM2
+
+- Lerna
+
+- PassportJS, Sessions, API key, Auth0
+- https://www.npmjs.com/package/jwks-rsa
+
+- DDD, Inversion of Control / Dependencies Injection, Separation of Concerns, KISS, YAGNI
+
+- https://www.npmjs.com/package/nodemailer
+
+- SendGrid, OneSignal
+
+- PayPal, Stripe
+
+- Reverse Proxy, Load Balancer
+
+- Custom plugins: install / uninstall, enable / disable, list all, configure
+
+- eslint: --report-unused-disable-directives
+
+- An introduction to Aspect-Oriented Programming <https://medium.com/@blueish/an-introduction-to-aspect-oriented-programming-5a2988f51ee2>
+
+- Sorting Algorithms (Selection Sort, Bubble Sort, Merge Sort, and Quicksort) <https://levelup.gitconnected.com/sorting-algorithms-selection-sort-bubble-sort-merge-sort-and-quicksort-75479f8f80b1>
+
+- https://www.npmjs.com/package/cron
+- https://www.npmjs.com/package/node-cron
+
+- https://www.npmjs.com/package/express-rate-limit
+
+- sonarcube
+
+- https://www.npmjs.com/package/newrelic
+
+- https://www.npmjs.com/package/passport
+- https://www.npmjs.com/package/passport-jwt
+- https://www.npmjs.com/package/openid-client
+
+- https://www.npmjs.com/package/pdfkit
+- https://www.npmjs.com/package/pdfkit-table
+
+- https://www.npmjs.com/package/compression
+
+- https://www.npmjs.com/package/image-to-base64
+
+- https://www.npmjs.com/package/pino
+- https://www.npmjs.com/package/pino-pretty
+
+- Doing a cleanup action just before Node.js exits <https://stackoverflow.com/questions/14031763/doing-a-cleanup-action-just-before-node-js-exits>
+
+- https://www.npmjs.com/package/debug
+
+- https://www.npmjs.com/package/express-http-proxy
+
+- How to create a realtime app using Socket.io, React, Node & MongoDB <https://www.freecodecamp.org/news/how-to-create-a-realtime-app-using-socket-io-react-node-mongodb-a10c4a1ab676/>
+
+- Building an online store with React, AWS, and Stripe <https://blog.bitsrc.io/how-to-build-an-online-store-with-react-aws-and-stripe-95413e6ce727>
+
+- Sharing Types Between Backend and Frontend with the BFF Pattern <https://blog.bitsrc.io/sharing-types-between-backend-and-frontend-with-the-bff-pattern-553872842463>
+
+- Which HTTP Status Code to Use for Every CRUD App <https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/>
+
+- Cookies vs. Tokens: The Definitive Guide <https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide>
+
+- Agile Board usage – why tickets shouldn’t move left <https://agilefixer.com/2017/02/20/agile-board-usage-why-tickets-shouldnt-move-left/>
+
+- How to apply SOLID principles with Typescript in an easy way <https://makinhs.medium.com/how-to-apply-solid-principles-with-typescript-in-an-easy-way-b91b53bc9853>
+
+- 4 Simple and Effective Ways To Avoid Too Many Ifs With TypeScript <https://betterprogramming.pub/4-simple-and-effective-ways-to-avoid-too-many-ifs-with-typescript-89937c0f9a99>
+
+- Automatic API Documentation in Node.js Using Swagger <https://medium.com/swlh/automatic-api-documentation-in-node-js-using-swagger-dd1ab3c78284>
+
+- HOW TO SET UP A CRON JOB THAT RUNS A NODE.JS APP <https://flaviocopes.com/cron-job-nodejs-app/>
+
+- How to create load balancing servers using Node.js ? <https://www.geeksforgeeks.org/how-to-create-load-balancing-servers-using-node-js/>
+
+- A Complete Guide to Node.js Process Management with PM2 <https://blog.appsignal.com/2022/03/09/a-complete-guide-to-nodejs-process-management-with-pm2.html>
+
+- https://www.npmjs.com/package/promisify
+
+- stream-file-uploads-to-storage-server-in-node-js
+
+- https://gist.github.com/ankitaabad/3872ba18a6048478267d620f67cfe9f1#file-fake_data-js
+
+- How to OVER Engineer a Website <https://www.youtube.com/watch?v=Sxxw3qtb3_g>
+
+- Cookie and Session (II): How session works in express-session <https://medium.com/@alysachan830/cookie-and-session-ii-how-session-works-in-express-session-7e08d102deb8>
+- Best Practices for Secure Session Management in Node <https://jscrambler.com/blog/best-practices-for-secure-session-management-in-node>
+- Why is it good practice to store session IDs in a database? <https://www.quora.com/Why-is-it-good-practice-to-store-session-IDs-in-a-database>
+- JWT vs cookies for token-based authentication <https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication>
+
+- How to build real-time applications using WebSockets with AWS API Gateway and Lambda <https://www.freecodecamp.org/news/real-time-applications-using-websockets-with-aws-api-gateway-and-lambda-a5bb493e9452/>
+
+<https://circleci.com/>
+
+- Module Pattern in JavaScript <https://javascript.plainenglish.io/data-hiding-with-javascript-module-pattern-62b71520bddd>
+
+- <https://scaffoldhub.io/>
+
+- Build a Doctor Appointment Bot With Azure Bot Service, Language Understanding, and Twilio SMS <https://betterprogramming.pub/build-a-doctor-appointment-bot-with-azure-bot-service-language-understanding-and-twilio-sms-5cc1311667bd>
+
+- Cache implementation in Node.js <https://javaniceday.com/cache-implementation-in-node-js/>
+
+- 5 NestJS Techniques to Build Efficient and Maintainable Apps <https://betterprogramming.pub/5-nestjs-techniques-to-build-efficient-and-maintainable-apps-be6bc77e789e>
+
+- The Truth About Abs: How To Make $1,000,000 Per Month with Digital Products (Plus: Noah Kagan results) <https://tim.blog/2011/11/02/the-truth-about-abs-mike-geary/>
+
+- Modernize how you build and manage applications <https://aws.amazon.com/partners/featured/modern-application-development/>

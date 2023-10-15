@@ -59,3 +59,31 @@
 - https://www.creative-tim.com/templates/react-native
 - https://startreact.com/
 - https://github.com/ReactNativeNews/React-Native-Apps
+  Expo Framework
+  Generate splashscreen, icons, screenshots Firebase (auth, CRUD, functions)
+  Google Maps, Map layers
+  GraphQL API / Apollo
+  QR-Codes
+  Animation
+  Debug
+  Tests
+  Camera
+  Media files, Files
+  Contacts
+  GPS Geolocation, IP Geolocation
+  Touch Id, Apple Id, Face Id
+  Apple Payment, Google Payment
+  Apple In-app purchase, Google In-app purchase
+  Push Notifications Ads
+  Onboarding
+  Emoji
+  Charts
+  Localization
+  Device Orientation
+  App Store, Google Play publishing
+  debug performance
+  Flipper?
+  Reactotron?
+  Hermes?
+  https://instamobile.io/blog/
+  https://engineering.tableau.com/react-native-performance-learnings-85f47ba38acb
