@@ -141,3 +141,71 @@ SNS (as consumer) / SQS (fanout)
 Secret Manager
 configservice
 ```
+
+```text
+Hello,
+
+My name is Chul Kwon, I am a Product Lead at Turing. Are you ready to become a deeply vetted developer and get matched to a top client opportunity? You are eligible to create a Deep Developer profile on Turing. Are you up for it? Get started by uploading your resume.
+
+As a Turing Developer, you will get access to global, remote, high-paying opportunities that offer:
+
+✓ Long-term engagement
+✓ Flexible schedule
+✓ The most important technology projects in the world
+✓ Projects with millions of users
+✓ Easy, lifelong job matching
+✓ Access to developer community, mentorship, and upskilling opportunities
+
+If this sounds like something you’d be interested in, you can quickly move ahead of 50% of candidates by uploading your resume right now. All you need to do is:
+
+→ Upload your existing resume.
+→ Take our Quizzes and Coding Challenge.
+→ Check and incorporate our suggestions as you finalize your profile. We recommend actions that can add weight to your resume based on your skill level, experience, and Turing test results.
+
+You can also click on the Help widget on your screen to find self-help articles or chat with us live for specific help regarding your resume. Click here to learn more.
+
+We look forward to matching you with new, exciting opportunities! If you encounter any difficulties while creating your profile, please email us at support@turing.com. Our team will help you out as soon as possible.
+
+-----------------------------------------------------------
+
+Interesting facts about Turing
+
+Turing is an AI-based platform that raised its Series D at a $1.1 billion valuation and became a unicorn. We help engineers find long-term, high-paying, remote software jobs with US-based companies such as Disney+, Dell, and Pepsi.
+
+Want to know how happy our Turing developers are? Watch some of our developers stories where they talk about their experience with us:
+
+Isaac (Nigeria)
+Andrew (Brazil)
+James (South Africa)
+Numan (Pakistan)
+Mukul (India)
+Whant to know more about Turing?
+
+Forbes America’s Best Startup Employers
+Tech CrunchTuring books $87M at a $1.1B valuation to help companies hire engineers remotely
+The Information: Turing named the Most Promising B2B Startup by The Information
+
+--------------------
+All the best,
+Chul Kwon
+Product Lead
+Traditional recruiting is over. Welcome to the Talent Cloud.
+```
+
+```text
+Hello Sergey,
+
+I noticed that you've been utilizing Node.JS on a high level! That's truly impressive!
+
+For my Berlin based product house Inne (innovative & meaningful) I am looking for a Fullstack Guru to help build a unique 𝗜𝗻𝗵𝗼𝘂𝘀𝗲-𝗣𝗿𝗼𝗱𝘂𝗸𝘁 𝗳𝗿𝗼𝗺 𝗦𝗰𝗿𝗮𝘁𝗰𝗵.
+
+🛠: Node.JS, JavaScript Or TypeScript, AWS,.... free choice of equipment, development and design freedom, technologically sophisticated product, autonomous teams,...
+
+🕵🏼: Interested? Conveniently book yourself on my calendar:
+https://calendly.com/recruitmentcircle/digital-coffee
+
+Kind regards,
+
+Raphael Eisenberg
+Co-Founder Tech Recruitment Circle GmbH
+```

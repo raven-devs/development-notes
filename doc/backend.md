@@ -30,6 +30,7 @@
 - https://www.npmjs.com/package/jwks-rsa
 - SSO
 - Do I have to store tokens in cookies or localstorage or session? <https://stackoverflow.com/questions/54258233/do-i-have-to-store-tokens-in-cookies-or-localstorage-or-session>
+- Keylock
 
 ## Plugin architecture
 
@@ -139,6 +140,9 @@ Ryan Dhungel
 - IN learning <https://www.linkedin.com/learning/>
 - in28minutes <https://www.in28minutes.com/>
 - w3schools <https://www.w3schools.com/>
+- zhenghao <https://www.zhenghao.io/>
+- DEV <https://dev.to>
+- DevIQ <https://deviq.com/>
 
 ## Inbox
 
@@ -361,3 +365,27 @@ Error [ERR_MODULE_NOT_FOUND]: Cannot find module
 Use --es-module-specifier-resolution=node flag, i.e.:
 node --es-module-specifier-resolution=node src/app/api/file/test.js
 ```
+
+- Documentation framework <https://docusaurus.io/>
+
+- bots, trading bot <https://hummingbot.com/>
+
+- <https://knexjs.org/>
+
+- <https://github.com/anttiviljami/serverless-openapi-joi-boilerplate/blob/460ac2af3121172c0c803f74a2705183a5fb0439/scripts/build-swaggerui.js>
+
+- <https://github.com/mesaugat/express-api-es6-starter/blob/b27510a960b7a4c1bb96974ea22ac62e9eb167ce/src/index.js>
+
+- AWS Build a better business with data <https://pages.awscloud.com/global-ln-gc-600-dnb-10-data-stories-learn.html?gc-language=en-gb&trk=9100c9bb-5860-4e7f-be0c-255395525ebc&sc_channel=em>
+
+- recursive functions
+
+- blob, base64, checksum
+
+- JSON is incredibly slow: Here’s What’s Faster! <https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8>
+
+- CQRS - Command Query Responsibility Segregation <https://deviq.com/design-patterns/cqrs-pattern>
+
+- Domain Events Pattern <https://deviq.com/design-patterns/domain-events-pattern>
+
+- REPR <https://deviq.com/design-patterns/repr-design-pattern>

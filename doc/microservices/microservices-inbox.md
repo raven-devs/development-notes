@@ -378,3 +378,5 @@ interface Worker {
 - A Distributed Work Queue <https://www.yld.io/blog/a-distributed-work-queue/>
 
 - What is an Event-Driven Architecture? <https://aws.amazon.com/event-driven-architecture/>
+
+- Event Creation and Handling Techniques in TypeScript <https://hackwild.com/article/event-handling-techniques/>

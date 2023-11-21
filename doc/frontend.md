@@ -75,3 +75,5 @@
 - react devtools / redux devtools / chrome devtools
 - Higher Order Components in a React Hooks World <https://medium.com/@albertchu539/higher-order-components-in-a-react-hooks-world-69fe1f0b0791>
 - <https://themeforest.net/>
+- code splitting <https://github.com/i18next/react-i18next/tree/master/example/react#code-splitting>
+- usefull to read <https://github.com/i18next/react-i18next/tree/master/example/react>
