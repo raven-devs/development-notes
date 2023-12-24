@@ -380,3 +380,15 @@ interface Worker {
 - What is an Event-Driven Architecture? <https://aws.amazon.com/event-driven-architecture/>
 
 - Event Creation and Handling Techniques in TypeScript <https://hackwild.com/article/event-handling-techniques/>
+
+- Difference between Event Bus, Message Queue, and Message Broker <https://pandaquests.medium.com/difference-between-event-bus-message-queue-and-message-broker-a8630a8823f7>
+
+- rabbitmq vs kafka
+
+- ACID, CAP, and BASE <https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c>
+
+- Distributed System / Databases: CAP, ACID, and BASE <https://www.linkedin.com/pulse/distributed-system-databases-cap-acid-base-kuldeep-pal/>
+
+- how indexes work?
+
+- types of locks in transactions?

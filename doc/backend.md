@@ -389,3 +389,11 @@ node --es-module-specifier-resolution=node src/app/api/file/test.js
 - Domain Events Pattern <https://deviq.com/design-patterns/domain-events-pattern>
 
 - REPR <https://deviq.com/design-patterns/repr-design-pattern>
+
+- Anton:
+
+```text
+- Helm is a Kubernetes package manager that helps you find, share, and use software built for Kubernetes**.
+- how indexes work?
+- aws redshift, materializes views
+```

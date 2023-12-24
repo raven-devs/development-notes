@@ -115,3 +115,63 @@ In the context of e-commerce, modules refer to various components or features th
 - Crystallize Headless Commerce <https://crystallize.com/>
 
 - Frontend Frameworks in 2022 for eCommerce <https://crystallize.com/blog/best-frontend-frameworks>
+
+- Database schema for an online merch store:
+
+```text
+1. Users:
+
+UserID (Primary Key)
+Username
+Email
+Password
+Other relevant user information
+
+2. Products:
+
+ProductID (Primary Key)
+Name
+Description
+Price
+StockQuantity
+CategoryID (Foreign Key referencing Categories table)
+
+3. Categories:
+
+CategoryID (Primary Key)
+CategoryName
+
+4. Orders:
+
+OrderID (Primary Key)
+UserID (Foreign Key referencing Users table)
+OrderDate
+TotalAmount
+
+5. OrderDetails:
+
+OrderDetailID (Primary Key)
+OrderID (Foreign Key referencing Orders table)
+ProductID (Foreign Key referencing Products table)
+Quantity
+Subtotal
+
+6. Reviews:
+
+ReviewID (Primary Key)
+UserID (Foreign Key referencing Users table)
+ProductID (Foreign Key referencing Products table)
+Rating
+Comment
+ReviewDate
+
+7. ShippingInformation:
+
+ShippingID (Primary Key)
+OrderID (Foreign Key referencing Orders table)
+Address
+City
+State
+ZipCode
+ShippingDate
+```

@@ -27,3 +27,9 @@
 - Advocall — первый в РФ Uber для адвокатов, у которого получилось. В нас не верил Резник, но за год мы выросли в 2 раза <https://vc.ru/tribuna/632912-advocall-pervyy-v-rf-uber-dlya-advokatov-u-kotorogo-poluchilos-v-nas-ne-veril-reznik-no-za-god-my-vyrosli-v-2-raza>
 
 Booksy <https://booksy.com/en-us/>
+
+-Apps:
+
+- ecommerce
+- booking (tickets, hotel, etc)
+- taxi app (realtime data)
