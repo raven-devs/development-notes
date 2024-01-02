@@ -1,6 +1,122 @@
 # Courses
 
+## Media
+
+udemy.com
+youtube.com
+blog.logrocket.com
+medium.com
+dev.to
+chat.openai.com
+
+## Instructors
+
+Robert Bunch
+Maximilian Schwarzmüller
+Jonas Schmedtmann
+Andrew Mead
+Stephen Grider
+Andrei Neagoie
+Brad Traversy
+Antonio Papa
+Ryan Dhungel
+Mehmet Ozkaya
+Michael Pogrebinsky
+Bogdan Stashchuk
+David Joseph Katz
+
+## Subjects
+
+- ecommerce
+- auth, oauth
+- microservices
+- kubernetes
+- grpc
+- kafka
+- aws
+- aws certification
+- nestjs
+- nextjs
+- design patterns
+- algorithm
+- redis
+- graphql / apollo
+- socket.io
+- firebase
+
+## Resources
+
+- React, NextJS and NestJS: A Rapid Guide - Advanced <https://www.udemy.com/course/react-nestjs-advanced/>
+
+- React and NestJS: A Practical Guide with Docker <https://www.udemy.com/course/react-nest-admin/>
+
+- The Ultimate Authentication Course with NodeJS and React <https://www.udemy.com/course/react-node-authentication/>
+
+- The Ultimate Authentication Course with NestJS and React <https://www.udemy.com/course/react-nest-authentication/>
+
+- React, Next.js and NodeJS: A Rapid Guide - Advanced <https://www.udemy.com/course/react-node-advanced/>
+
+- Spring Boot E-Commerce Ultimate Course <https://www.udemy.com/course/spring-boot-e-commerce-ultimate/>
+
+- Build a Cool Space Station Tracking App using Spring Boot <https://www.udemy.com/course/build-a-cool-space-station-tracking-app-using-spring-boot/>
+
+- Deploy Spring Boot Microservices on AWS ECS with Fargate <https://www.udemy.com/course/deploy-spring-boot-microservices-on-aws-ecs-with-fargate/>
+
+- Architecting Python Microservices in AWS with ECS & App Mesh <https://www.udemy.com/course/architecting-python-microservices-in-aws-with-ecs-app-mesh/>
+
+- Build and Deploy Apps on AWS using DevOps Techniques <https://www.udemy.com/course/build-and-deploy-apps-on-aws-using-devops-techniques/>
+
+- Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk <https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/>
+
+- REST API's RESTFul from 0 to AWS with Spring Boot and Docker <https://www.udemy.com/course/rest-apis-restful-from-0-to-aws-with-spring-boot-and-docker/>
+
+- Ultimate AWS Certified Developer Associate 2023 NEW DVA-C02 <https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/>
+
+- Practice Exams | AWS Certified Developer Associate 2023 <https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/>
+
+- Devops Tools and AWS for Java Microservice Developers <https://www.udemy.com/course/devops-tools-and-aws-for-java-microservice-developers/>
+
+- AWS Fargate & ECS - Masterclass | Microservices, Docker, CFN <https://www.udemy.com/course/aws-fargate-ecs-masterclass-microservices-docker-cloudformation/>
+
+- Amazon ECS & Fargate Master Class - Docker on AWS <https://www.udemy.com/course/aws-ecs-fargate/>
+
+- Java Spring Boot Microservices on Kubernetes on AWS Cloud <https://www.udemy.com/course/java-spring-boot-microservices-on-kubernetes-in-the-cloud/>
+
+- Kubernetes on AWS EKS: Hands-on Get Started for Dev & DevOps <https://www.udemy.com/course/kubernetes-on-aws-eks-hands-on-guide-for-devs-devops/>
+
+- Kubernetes Hands-On - Deploy Microservices to the AWS Cloud <https://www.udemy.com/course/kubernetes-microservices/>
+
+- AWS EKS Kubernetes-Masterclass | DevOps, Microservices <https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/>
+
+- Master Event Driven Microservices with Python and AWS <https://www.udemy.com/course/build-microservices-with-python-aws/>
+
+- AWS Serverless REST APIs for Java Developers. CI/CD included <https://www.udemy.com/course/aws-serverless-rest-apis-for-java-developers/>
+
+- Serverless Microservices on AWS in 10 Hours <https://www.udemy.com/course/serverless-microservices-on-aws-in-10-hours/>
+
+- AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) <https://www.udemy.com/course/aws-lambda-serverless-architecture/>
+
+- Introduction to Cloud Computing on AWS for Beginners <https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/>
+
+- Amazon Web Services (AWS) with JavaScript & NodeJS <https://www.udemy.com/course/amazon-web-services-aws-with-javascript-nodejs/>
+
+- Web security: Injection Attacks with Java & Spring Boot <https://www.udemy.com/course/secure-coding-dive-into-injections-with-java-spring-boot/>
+
+- Keycloak : Single Sign On with Spring Boot & Spring Security <https://www.udemy.com/course/keycloak-single-sign-on-sso-with-spring-boot-spring-security-thymeleaf/>
+
+- Spring Boot with API and Performance Testing(Crash Course) <https://www.udemy.com/course/spring-boot-api-and-performance-testing/>
+
+- Software Performance Testing and Engineering <https://www.udemy.com/course/software-performance-testing-and-engineering/>
+
+- REST API Security with Java Spring Boot - What & How <https://www.udemy.com/course/rest-api-security-with-java-spring-boot-what-how/>
+
+- DevSecOps - Kubernetes DevOps & Security with Hands-On Labs <https://www.udemy.com/course/kubernetes-devsecops/>
+
 - Microservices with Node JS and React <https://www.udemy.com/course/microservices-with-node-js-and-react/>
+
+- Microservices with NodeJS, React, Typescript and Kubernetes <https://www.udemy.com/course/microservices-with-nodejs-react-typescript-and-kubernetes/>
+
+- Learn To Build Microservices Driven Apps Using NodeJS <https://www.udemy.com/course/learn-to-build-microservices-driven-apps/>
 
 - Design Microservices Architecture with Patterns & Principles <https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/>
 
@@ -18,13 +134,9 @@
 
 - Cloud-Native: Microservices, Kubernetes, Service Mesh, CI/CD <https://www.udemy.com/course/cloud-native-microservices-kubernetes-service-mesh-cicd/>
 
-- Mehmet Ozkaya <https://www.udemy.com/user/ff0e5c8c-dd71-443e-be0a-e73ba821f7d7/>
-
 - Creating .Net Core Microservices using Clean Architecture <https://www.udemy.com/course/creating-net-core-microservices-using-clean-architecture/>
 
 - NestJS Microservices: Build & Deploy a Scaleable Backend <https://www.udemy.com/course/nestjs-microservices-build-deploy-a-scaleable-backend/>
-
-- Devops Tools and AWS for Java Microservice Developers <https://www.udemy.com/course/devops-tools-and-aws-for-java-microservice-developers/>
 
 - Software Architecture & Design of Modern Large Scale Systems <https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/>
 
@@ -34,27 +146,17 @@
 
 - Hands-On Go : Microservices With Protocol Buffers & gRPC <https://www.udemy.com/course/hands-on-go-programming-microservices-with-protocol-buffers-grpc/>
 
-- Kubernetes Hands-On - Deploy Microservices to the AWS Cloud <https://www.udemy.com/course/kubernetes-microservices/>
-
-- Rocking System Design <https://www.udemy.com/course/rocking-system-design/>
-
 - Domain Driven Design & Microservices for Architects <https://www.udemy.com/course/domain-driven-design-and-microservices/>
-
-- AWS EKS Kubernetes-Masterclass | DevOps, Microservices <https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/>
 
 - gRPC [Node.js] MasterClass: Build Modern API & Microservices <https://www.udemy.com/course/grpc-nodejs/>
 
 - gRPC Masterclass with Java & Spring Boot <https://www.udemy.com/course/grpc-the-complete-guide-for-java-developers/>
 
+- Using gRPC in Microservices Communication with .Net 5 <https://www.udemy.com/course/using-grpc-in-microservices-communication-with-net-5/>
+
 - Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot <https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework/>
 
-- Master Event Driven Microservices with Python and AWS <https://www.udemy.com/course/build-microservices-with-python-aws/>
-
 - Microservices Security - The Complete Guide <https://www.udemy.com/course/microservices-security-the-complete-guide/>
-
-- Deploy Spring Boot Microservices on AWS ECS with Fargate <https://www.udemy.com/course/deploy-spring-boot-microservices-on-aws-ecs-with-fargate/>
-
-- AWS Fargate & ECS - Masterclass | Microservices, Docker, CFN <https://www.udemy.com/course/aws-fargate-ecs-masterclass-microservices-docker-cloudformation/>
 
 - K6- Automate Performance &Load Testing of API& Microservices <https://www.udemy.com/course/k6-automate-performance-load-testing-of-api-microservices/>
 
@@ -64,19 +166,13 @@
 
 - IT Systems Architecture - Microservices <https://www.udemy.com/course/it-systems-architecture-microservices/>
 
-- Using gRPC in Microservices Communication with .Net 5 <https://www.udemy.com/course/using-grpc-in-microservices-communication-with-net-5/>
-
 - Serverless Framework Bootcamp: Node.js, AWS & Microservices <https://www.udemy.com/course/serverless-framework/>
 
 - A Beginner's Guide to a Microservices Architecture <https://www.udemy.com/course/a-beginners-guide-to-a-microservices-architecture/>
 
 - Fastest Microservices in .NET <https://www.udemy.com/course/fastest-microservices-in-net/>
 
-- AWS Serverless REST APIs for Java Developers. CI/CD included <https://www.udemy.com/course/aws-serverless-rest-apis-for-java-developers/>
-
 - Java Microservices: CQRS & Event Sourcing with Kafka <https://www.udemy.com/course/java-microservices-cqrs-event-sourcing-with-kafka/>
-
-- Architecting Python Microservices in AWS with ECS & App Mesh <https://www.udemy.com/course/architecting-python-microservices-in-aws-with-ecs-app-mesh/>
 
 - Microservices Contract Testing with Pact Go 2022 <https://www.udemy.com/course/microservices-contract-testing-with-pact-go-2022/>
 
@@ -84,23 +180,7 @@
 
 - Event-Driven Microservices: Develop and Test with C# .NET <https://www.udemy.com/course/testing-eda-microservices/>
 
-- Apache Kafka - Real-time Stream Processing (Master Class) <https://www.udemy.com/course/kafka-streams-real-time-stream-processing-master-class/>
-
-- Apache Kafka for Developers using Spring Boot <https://www.udemy.com/course/apache-kafka-for-developers-using-springboot/>
-
-- React, NextJS and NestJS: A Rapid Guide - Advanced <https://www.udemy.com/course/react-nestjs-advanced/>
-
-- React and NestJS: A Practical Guide with Docker <https://www.udemy.com/course/react-nest-admin/>
-
-- The Ultimate Authentication Course with NodeJS and React <https://www.udemy.com/course/react-node-authentication/>
-
-- The Ultimate Authentication Course with NestJS and React <https://www.udemy.com/course/react-nest-authentication/>
-
-- React, Next.js and NodeJS: A Rapid Guide - Advanced <https://www.udemy.com/course/react-node-advanced/>
-
 - Build your first Microservices application using Go and gRPC <https://www.udemy.com/course/microservices-go-grpc/>
-
-- Serverless Microservices on AWS in 10 Hours <https://www.udemy.com/course/serverless-microservices-on-aws-in-10-hours/>
 
 - Introduction to Microservices using .NET Core 3.1 <https://www.udemy.com/course/introduction-to-asp-net-core-microservices/>
 
@@ -112,51 +192,25 @@
 
 - Transactional Outbox Pattern with Debezium <https://www.udemy.com/course/transactional-outbox-pattern-with-debezium/>
 
-- Build and Deploy Apps on AWS using DevOps Techniques <https://www.udemy.com/course/build-and-deploy-apps-on-aws-using-devops-techniques/>
-
-- Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk <https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/>
-
 - Introduction to industry REST microservices in Golang (Go) <https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/>
-
-- Spring Boot with API and Performance Testing(Crash Course) <https://www.udemy.com/course/spring-boot-api-and-performance-testing/>
-
-- Web security: Injection Attacks with Java & Spring Boot <https://www.udemy.com/course/secure-coding-dive-into-injections-with-java-spring-boot/>
-
-- Keycloak : Single Sign On with Spring Boot & Spring Security <https://www.udemy.com/course/keycloak-single-sign-on-sso-with-spring-boot-spring-security-thymeleaf/>
 
 - Building a Scalable Serverless Microservice REST Data API <https://www.udemy.com/course/building-a-scalable-serverless-microservice-rest-data-api/>
 
 - Spring Boot 2 Microservice Messaging in RabbitMQ and AWS SQS <https://www.udemy.com/course/spring-boot-2-messaging-with-rabbitmq-activemq-and-aws-sqs/>
 
-- Spring Boot E-Commerce Ultimate Course <https://www.udemy.com/course/spring-boot-e-commerce-ultimate/>
-
 - Microservices - Fundamentals, Patterns and Anti patterns <https://www.udemy.com/course/micro-services-fundamentals-patterns-and-anti-patterns/>
-
-- Software Performance Testing and Engineering <https://www.udemy.com/course/software-performance-testing-and-engineering/>
-
-- REST API Security with Java Spring Boot - What & How <https://www.udemy.com/course/rest-api-security-with-java-spring-boot-what-how/>
-
-- Apache Kafka 101 With Java (Spring Boot) For Beginners <https://www.udemy.com/course/apache-kafka-101-with-java-spring-boot-for-beginners/>
-
-- Kubernetes on AWS EKS: Hands-on Get Started for Dev & DevOps <https://www.udemy.com/course/kubernetes-on-aws-eks-hands-on-guide-for-devs-devops/>
-
-- Build a Cool Space Station Tracking App using Spring Boot <https://www.udemy.com/course/build-a-cool-space-station-tracking-app-using-spring-boot/>
-
-- REST API's RESTFul from 0 to AWS with Spring Boot and Docker <https://www.udemy.com/course/rest-apis-restful-from-0-to-aws-with-spring-boot-and-docker/>
 
 - Event Driven Architecture - The Complete Guide <https://www.udemy.com/course/event-driven-architecture-the-complete-guide/>
 
 - DevOps Beginners to Advanced with Projects - 2023 <https://www.udemy.com/course/decodingdevops/>
 
-- ASP.NET Core - SOLID and Clean Architecture <https://www.udemy.com/course/aspnet-core-solid-and-clean-architecture-net-5-and-up/>
-
 - The Complete Cloud Computing Software Architecture Patterns <https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/>
 
 - The Complete Guide to Becoming a Software Architect <https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/>
 
-- Ultimate AWS Certified Developer Associate 2023 NEW DVA-C02 <https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/>
+- Mastering the System Design Interview <https://www.udemy.com/course/system-design-interview-prep/>
 
-- Practice Exams | AWS Certified Developer Associate 2023 <https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/>
+- Learn DevOps: The Complete Kubernetes Course <https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/>
 
 - Apache Kafka Series - Learn Apache Kafka for Beginners v3 <https://www.udemy.com/course/apache-kafka/>
 
@@ -172,25 +226,31 @@
 
 - Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL <https://www.udemy.com/course/apache-kafka-security/>
 
-- Mastering the System Design Interview <https://www.udemy.com/course/system-design-interview-prep/>
+- Learn Apache Kafka Fundamental With NodeJS For Beginners <https://www.udemy.com/course/learn-apache-kafka-fundamental-with-nodejs-for-beginners/>
 
-- Software Architecture & Technology of Large-Scale Systems <https://www.udemy.com/course/developer-to-architect/>
+- Apache Kafka 101 With Java (Spring Boot) For Beginners <https://www.udemy.com/course/apache-kafka-101-with-java-spring-boot-for-beginners/>
+
+- Apache Kafka - Real-time Stream Processing (Master Class) <https://www.udemy.com/course/kafka-streams-real-time-stream-processing-master-class/>
+
+- Apache Kafka for Developers using Spring Boot <https://www.udemy.com/course/apache-kafka-for-developers-using-springboot/>
+
+- The Complete Apache Kafka Practical Guide <https://www.udemy.com/course/apache_kafka/>
+
+- Master Redis - From Beginner to Advanced, 20+ hours <https://www.udemy.com/course/masterredis/>
 
 - Docker for Node.js Projects From a Docker Captain <https://www.udemy.com/course/docker-mastery-for-nodejs/>
 
-- Software Architecture (SOLID) & Design Patterns in Java <https://www.udemy.com/course/basics-of-software-architecture-design-in-java/>
+- ASP.NET Core - SOLID and Clean Architecture <https://www.udemy.com/course/aspnet-core-solid-and-clean-architecture-net-5-and-up/>
+
+- Rocking System Design <https://www.udemy.com/course/rocking-system-design/>
 
 - Learn Software Architecture In-depth and Start Architecting <https://www.udemy.com/course/learn-software-architecture-in-depth/>
 
-- Amazon ECS & Fargate Master Class - Docker on AWS <https://www.udemy.com/course/aws-ecs-fargate/>
-
-- Master Redis - From Beginner to Advanced, 20+ hours <https://www.udemy.com/course/masterredis/>
+- Software Architecture & Technology of Large-Scale Systems <https://www.udemy.com/course/developer-to-architect/>
 
 - Cloud Design Patterns <https://www.udemy.com/course/cloud-design-patterns/>
 
 - Clean Architecture for Beginners: A Practical Guide <https://www.udemy.com/course/software-architecture-essentials-for-business-applications/>
-
-- Java Spring Boot Microservices on Kubernetes on AWS Cloud <https://www.udemy.com/course/java-spring-boot-microservices-on-kubernetes-in-the-cloud/>
 
 - Software Architecture and Design Essentials <https://www.udemy.com/course/software-architecture-and-design-essentials/>
 
@@ -200,27 +260,11 @@
 
 - Distributed Systems & Cloud Computing with Java <https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/>
 
-- DevSecOps - Kubernetes DevOps & Security with Hands-On Labs <https://www.udemy.com/course/kubernetes-devsecops/>
-
 - Master System Design and Design Pattern <https://www.udemy.com/course/system-design-and-design-pattern-course/>
-
-- Learn Apache Kafka Fundamental With NodeJS For Beginners <https://www.udemy.com/course/learn-apache-kafka-fundamental-with-nodejs-for-beginners/>
-
-- Learn DevOps: The Complete Kubernetes Course <https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/>
 
 - DevOps Projects | Real Time DevOps & GitOps Projects <https://www.udemy.com/course/devopsprojects/>
 
-- AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) <https://www.udemy.com/course/aws-lambda-serverless-architecture/>
-
-- Introduction to Cloud Computing on AWS for Beginners <https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/>
-
 - Software Architecture and Clean Code Design in OOP <https://www.udemy.com/course/software-architecture-learnit/>
-
-- Stephen Grider <https://www.udemy.com/user/sgslo/>
-
-- Amazon Web Services (AWS) with JavaScript & NodeJS <https://www.udemy.com/course/amazon-web-services-aws-with-javascript-nodejs/>
-
-- The Complete Apache Kafka Practical Guide <https://www.udemy.com/course/apache_kafka/>
 
 - Node JS Cluster with PM2, RabbitMQ, Redis and Nginx <https://www.udemy.com/course/node-js-cluster/>
 
@@ -270,8 +314,6 @@
 
 - Apache Kafka A-Z with Hands on Learning <https://www.udemy.com/course/apache-kafka-learnkarts/>
 
-- Design Patterns and SOLID Principles with Java <https://www.udemy.com/course/design-patterns-and-solid-principles-with-java/>
-
 - Low Level System Design [An interview perspective] <https://www.udemy.com/course/low-level-system-design-an-interview-perspective/>
 
 - Introduction to Devops - Learn DevOps basics in 90 Minutes! <https://www.udemy.com/course/devopscrash/>
@@ -319,8 +361,6 @@
 - System Design for Big Data Pipelines <https://www.udemy.com/course/system-design-for-big-data-pipelines/>
 
 - Kafka Streams API For Developers using Java/SpringBoot 3.X <https://www.udemy.com/course/kafka-streams-api-for-developers-using-java-springboot/>
-
-- Node.js Design Patterns <https://www.udemy.com/course/nodejs-design-patterns/>
 
 - Complete Amazon EKS Bootcamp - From Zero to Hero <https://www.udemy.com/course/amazon-eks-masterclass-with-complete-hands-on/>
 
@@ -472,13 +512,7 @@
 
 - NodeJS: Beginner to Pro - APIs for Food Delivery & Ecommerce <https://www.udemy.com/course/nodejs-beginner-to-pro-apis-for-food-delivery-ecommerce/>
 
-- Andrei Neagoie <https://www.udemy.com/user/andrei-neagoie/>
-
 - Unit Testing for Typescript & NodeJs Developers with Jest <https://www.udemy.com/course/unit-testing-typescript-nodejs/>
-
-- Stephen Grider <https://www.udemy.com/user/sgslo/>
-
-- Andrew Mead <https://www.udemy.com/user/andrewmead/>
 
 - Detecting memory leaks in nodejs and V8 <https://www.udemy.com/course/detecting-memory-leaks-in-nodejs-and-v8/>
 
@@ -495,10 +529,6 @@
 - Learn how to build Amazon website using Vue.js and Node.js <https://www.udemy.com/course/learn-how-to-build-amazon-website-using-vuejs-and-nodejs/>
 
 - Node.js Microservices for beginners <https://www.udemy.com/course/nodejs-microservices-for-beginners/>
-
-- Design Patterns in TypeScript <https://www.udemy.com/course/design-patterns-typescript/>
-
-- David Joseph Katz <https://www.udemy.com/user/54cd8dd54e49b/>
 
 - Twilio / Node - SMS booking system using Twilio and Node.Js <https://www.udemy.com/course/twilio-sms/>
 
@@ -539,3 +569,17 @@
 - LangChain: Develop AI web-apps with JavaScript and LangChain <https://www.udemy.com/course/langchain-develop-ai-web-apps-with-javascript-and-langchain/>
 
 - Building a Complete Udemy Clone - Unofficial <https://www.udemy.com/course/creating-a-complete-udemy-clone/>
+
+- Today's Redis is more than a cache! Learn how Redis can replace NoSQL, Elasticsearch, Neo4j, Kafka, and more. <https://www.udemy.com/course/redis-cloud/learn/lecture/30830164#overview>
+
+- Fundamentals of Backend Engineering <https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/>
+
+- Software Architecture Security - The Complete Guide <https://www.udemy.com/course/software-architecture-security-the-complete-guide/>
+
+- Microservices: Designing Highly Scalable Systems <https://www.udemy.com/course/introduction-to-microservices/>
+
+- Implementing Serverless Microservices Architecture Patterns <https://www.udemy.com/course/implementing-serverless-microservices-architecture-patterns/>
+
+- Microservices Architecture on AWS <https://www.udemy.com/course/microservices-architecture-on-aws/>
+
+- Node.js - Полный Курс по Node.js <https://www.udemy.com/course/nodejs-ru/>

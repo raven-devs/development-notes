@@ -97,18 +97,6 @@ In this example, plugins are loaded dynamically from a `plugins` directory. Each
 
 Keep in mind that building a robust plugin system can become more complex depending on your application's requirements and security considerations. Additionally, various libraries and frameworks can simplify the implementation of a plugin architecture in Node.js, so consider exploring existing solutions that match your needs.
 
-## Udemy
-
-Robert Bunch
-Maximilian Schwarzmüller
-Jonas Schmedtmann
-Andrew Mead
-Stephen Grider
-Brad Traversy
-Andrei Neagoie
-Antonio Papa
-Ryan Dhungel
-
 ## Resources
 
 - Learn Node <https://learnnode.com/>
