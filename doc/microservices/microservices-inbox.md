@@ -392,3 +392,5 @@ interface Worker {
 - how indexes work?
 
 - types of locks in transactions?
+
+- What’s the Difference Between gRPC and REST? <https://aws.amazon.com/compare/the-difference-between-grpc-and-rest/>
