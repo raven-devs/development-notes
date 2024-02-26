@@ -385,3 +385,7 @@ node --es-module-specifier-resolution=node src/app/api/file/test.js
 - how indexes work?
 - aws redshift, materializes views
 ```
+
+- Buffers and streams in Node.js <https://medium.com/@diego.coder/buffers-and-streams-in-node-js-8cf094621dd9>
+
+- Authentication, Create Account, Forgot Password and Change Password Framework for Node.js <https://ohad-redlich.medium.com/authentication-create-account-forgot-password-and-change-password-for-node-js-ae1df4df9b43>
