@@ -394,3 +394,5 @@ interface Worker {
 - types of locks in transactions?
 
 - What’s the Difference Between gRPC and REST? <https://aws.amazon.com/compare/the-difference-between-grpc-and-rest/>
+
+- Understanding Kubernetes Limits and Requests <https://sysdig.com/blog/kubernetes-limits-requests/#:~:text=Kubernetes%20defines%20Limits%20as%20the,is%20reserved%20for%20a%20container>
