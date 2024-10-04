@@ -209,3 +209,58 @@ Kind regards,
 Raphael Eisenberg
 Co-Founder Tech Recruitment Circle GmbH
 ```
+
+```text
+Requirements:
+Strong knowledge of JavaScript and the ECMAScript 6 standards
+3+ years of commercial experience with Node.js
+5+ years of commercial experience in web development
+Commercial experience of working with high loaded SQL or NO SQL databases
+Commercial experience of implementing the REST, GraphQL and WebSockets
+Understanding of the TDD principles and experience of writing tests
+Understanding of microservice architecture principles
+Experience of GIT version control system
+Experience with RabbitMQ
+Experience with Redis
+Experience with databases MongoDB, MySQL
+At least Intermediate lvl of English
+
+Will be a plus
+2+ years of hands-on experience developing over CI/CD/Micro Services architecture/Containers
+Experience with Kubernetes
+Experience with Nats
+Experience with TypeScript
+
+```
+
+```text
+our profile
+At least 4 years of experience working as a Backend Developer
+You’re a pro working with TypeScript
+Experience in real production projects with high throughput
+Knowledge working with backend frameworks such as Node.js, Nest.js & Fastify
+You like working in (small) teams and believe in agile software development
+Curious about new technologies and you like sharing your knowledge
+Great written and spoken English Skills. German language Skills are not required
+These technologies appeal to you:
+
+Backend in Python and NestJS
+Frontend monorepo with Turbo, pnpm, changesets, and storybook, primarily using Vue.js
+Amazon RDS, DynamoDB and S3 for data persistence.
+Kubernetes for container orchestration and GitLab CI/CD.
+Infrastructure on AWS provisioned using Terraform.
+Nice to have:
+
+Experience as a DevOps Engineer
+```
+
+```text
+...as you know, the field of Self-sovereign identity (SSI) is super hot at the moment and they require your full stack expertise in the following:
+Node.js as a runtime for their applications
+Nest.js as a framework for their backend services
+React.js for frontend apps
+Kubernetes to deploy applications to cloud
+Veramo or Hyperledger Indy/Aries for building innovative SSI products
+Solidity smart contracts to build decentralized solutions for solving new and exciting problems
+Besides this exciting tech stack, you get to enjoy the 100% remote setup to work from anywhere you like in the world, 30 holidays and one of THE friendliest tech teams ever!
+```

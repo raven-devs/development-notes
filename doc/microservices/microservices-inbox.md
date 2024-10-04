@@ -396,3 +396,11 @@ interface Worker {
 - What’s the Difference Between gRPC and REST? <https://aws.amazon.com/compare/the-difference-between-grpc-and-rest/>
 
 - Understanding Kubernetes Limits and Requests <https://sysdig.com/blog/kubernetes-limits-requests/#:~:text=Kubernetes%20defines%20Limits%20as%20the,is%20reserved%20for%20a%20container>
+
+- Does Serverless Still Matter? <https://dev.to/aws-builders/does-serverless-still-matter-2jag>
+
+- Avoiding the Serverless Workflow Antipattern <https://dev.to/aws-builders/avoiding-the-serverless-workflow-antipattern-2ba1>
+
+- AWS Lambda SnapStart - Part 1 Initial measuring of Java 11 Lambda cold starts <https://dev.to/vkazulkin/measuring-java-11-lambda-cold-starts-with-snapstart-part-1-first-impressions-30a4>
+
+- Why is Kubernetes Debugging so Problematic? <https://dev.to/codenameone/why-is-kubernetes-debugging-so-problematic-4feo>
